@@ -1,8 +1,10 @@
 /**
  * Java 1. Home work 5. Task1.
  *
+ *
  * @author Irek Nabiullin
  * @version #2 dated Feb 12, 2018
+ *
  * @link https://github.com/IrekNabiullin
  */
 
